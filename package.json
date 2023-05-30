@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "A simple tool to facilitate AB testing",
   "main": "index.js",
-  "author": "Ricardo Gonçalvees Bassete",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoBassete/simple-ab-test.git"
+  },
+  "keywords": [
+    "ab-test"
+  ],
+  "author": "Ricardo Gonçalves Bassete",
   "license": "ISC"
 }

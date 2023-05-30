@@ -1,5 +1,5 @@
 {
-  "name": "simple-ab-test",
+  "name": "@ricardo_bassete/simple-ab-test",
   "version": "1.0.0",
   "description": "A simple tool to facilitate AB testing",
   "main": "index.js",
